@@ -9,6 +9,8 @@ You can install Bubble for iOS using the iOS App Store
 
 ## [Install Bubble from the iOS App Store](https://link-tbd.example.com)
 
+----
+
 #### Bubble Certificate Installation on iOS
 Please note that for iOS, after installing the Bubble app and logging in to your Bubble, you will need to manually install your Bubble Certificate.
 
