@@ -1,7 +1,7 @@
-Bubble Client
-=============
+Bubble Native Apps
+==================
 
-Install the Bubble Client on your computer or mobile device to connect it to Bubble
+Install the Bubble app on your computer or mobile device to connect it to Bubble
 
 ## [Bubble for Windows](windows/README.md)
 
