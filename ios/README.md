@@ -11,7 +11,7 @@ You can install Bubble for iOS using the iOS App Store, or request a TestFlight 
 
 ----
 
-## [Request a TestFlight version of Bubble](mailto:support@bubble.com?subject=Requesting%20access%20to%20TestFlight%20version%20of%20Bubble&body=Hello%20Bubble%2C%0A%0AI%27d%20like%20to%20have%20access%20to%20the%20TestFlight%20version%20of%20Bubble%0A%0Athanks%21%0A)
+## [Request a TestFlight version of Bubble](mailto:support@getbubblenow.com?subject=Requesting%20access%20to%20TestFlight%20version%20of%20Bubble&body=Hello%20Bubble%2C%0A%0AI%27d%20like%20to%20have%20access%20to%20the%20TestFlight%20version%20of%20Bubble%0A%0Athanks%21%0A)
 
 ----
 
