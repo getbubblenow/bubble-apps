@@ -20,6 +20,6 @@ Please note that for iOS, after installing the Bubble app and logging in to your
 
 In-app instructions will guide you through this process.
 
-If you want to rewatch the instructions, here is the [iOS Certificate Installation video](https://github.com/getbubblenow/bubble-docs/raw/master/cert_instructions/ios_screenshots/iOS-CA-Certificate-Installation.mp4)
+If you'd like to review the instructions now, here is the [iOS Certificate Installation video](https://github.com/getbubblenow/bubble-docs/raw/master/cert_instructions/ios_screenshots/iOS-CA-Certificate-Installation.mp4)
 
 ----
