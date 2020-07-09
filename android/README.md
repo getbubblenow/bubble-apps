@@ -15,6 +15,6 @@ Installing from the Google Play Store is easy. It also makes it easier to enable
 
 If you prefer not to use the Google Play Store, you can side-load the Bubble app using this apk file.
 
-### [Bubble.apk](https://link-tbd.example.com/)
+### [Bubble.apk](Bubble.apk)
 
 ----
