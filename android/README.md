@@ -7,7 +7,7 @@ Bubble for Android
 
 For now, you'll need to side-load the Bubble app using this apk file.
 
-### [Bubble.apk](Bubble.apk)
+### [Bubble.apk](https://github.com/getbubblenow/bubble-apps/raw/master/android/Bubble.apk)
 
 ----
 
