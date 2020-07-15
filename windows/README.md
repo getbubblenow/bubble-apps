@@ -9,10 +9,10 @@ If you are not sure if your Windows system is 32-bit or 64-bit, here's how you c
 
 ----
 
-## [Bubble for 64-bit Windows](https://link-tbd.example.com/)
+## [Bubble for 64-bit Windows](https://github.com/getbubblenow/bubble-apps/raw/master/windows/bubbleVPN-amd64-0.1.0.0.msi)
 
 ----
 
-## [Bubble for 32-bit Windows](https://link-tbd.example.com/)
+## [Bubble for 32-bit Windows](https://github.com/getbubblenow/bubble-apps/raw/master/windows/bubbleVPN-x86-0.1.0.0.msi)
 
 ----

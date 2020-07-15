@@ -3,18 +3,16 @@ Bubble for Android
 
 ----
 
-## Install Bubble using the Google Play Store
+## Install Bubble using Bubble.apk
 
-Installing from the Google Play Store is easy. It also makes it easier to enable automatic upgrades.
+For now, you'll need to side-load the Bubble app using this apk file.
 
-### [Install Bubble from the Google Play Store](https://link-tbd.example.com/)
+### [Bubble.apk](Bubble.apk)
 
 ----
 
-## Install Bubble using Bubble.apk
+## Coming Soon: Install Bubble using the Google Play Store
 
-If you prefer not to use the Google Play Store, you can side-load the Bubble app using this apk file.
-
-### [Bubble.apk](Bubble.apk)
+Installing from the Google Play Store is easy. It also makes it easier to enable automatic upgrades.
 
 ----

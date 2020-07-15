@@ -3,18 +3,16 @@ Bubble for Mac OS X
 
 ----
 
-## Install Bubble using the Mac App Store
+## Install Bubble using Bubble.dmg
 
-Installing from the Mac App Store is easy. It also makes it easier to enable automatic upgrades.
+For now, can install Bubble for Mac OS X using this dmg file:
 
-#### [Install Bubble from the Mac App Store](https://link-tbd.example.com/)
+#### [Bubble.dmg](https://github.com/getbubblenow/bubble-apps/raw/master/macosx/Bubble.dmg)
 
 ----
 
-## Install Bubble using Bubble.dmg
+## Coming Soon: Install Bubble using the Mac App Store
 
-If you prefer not to use the Mac App Store, you can install Bubble for Mac OS X using this dmg file:
-
-#### [Bubble.dmg](https://link-tbd.example.com/)
+Coming Soon: Installing from the Mac App Store is easy. It also makes it easier to enable automatic upgrades.
 
 ----
